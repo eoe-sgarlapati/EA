@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>XML</Extension>
+    <ConnectString>http://imsdevedwapp00:7001/ea/bi/eseedw/images/IT301.xml</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>5cb3fd44-7c87-4bff-b81d-e9eec08d61bf</DataSourceID>
+</RptDataSource>

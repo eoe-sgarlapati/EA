@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="P20_Datamart">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=OraOLEDB.Oracle.1;Data Source=EDWIN</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>5fcd3e1a-ea82-4a5b-b11f-ae93d072bd1c</DataSourceID>
+</RptDataSource>
